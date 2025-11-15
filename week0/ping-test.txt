@@ -1,0 +1,5 @@
+Ping Test Results
+
+Ping from Windows 10 to Ubuntu (192.168.142.130): SUCCESS
+Ping from Ubuntu to Windows 10 (192.168.142.131): SUCCESS
+Ping from Ubuntu to Kali (192.168.142.128): SUCCESS

@@ -1,0 +1,6 @@
+Kali Linux IP Configuration
+
+Interface eth0:
+- IPv4 Address: 192.168.142.128/24
+- Subnet Mask: 255.255.255.0
+- Default Gateway: 192.168.142.2

@@ -1,0 +1,7 @@
+Windows IP Configuration
+
+Ethernet adapter Ethernet0:
+
+   IPv4 Address. . . . . . . . . . . : 192.168.142.131
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.142.2
